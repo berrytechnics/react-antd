@@ -6,10 +6,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "dev": "cd frontend && yarn build && cd ../ && nodemon server",
-    "frontend": "cd frontend && yarn run dev",
-    "start": "node server",
-    "build": "cd ../ && yarn build && cd ../"
+    "build": "npm i && cd frontend && npm i && npm run build && cd ../ && nodemon"
   },
   "dependencies": {
     "bcrypt": "^5.1.0",
