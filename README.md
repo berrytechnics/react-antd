@@ -4,13 +4,13 @@ A boilerplace solution to kickstart a small-scale enterprise application using R
 
 ## Built Using
 
-* [ReactJS]('')
-* [AntD]('')
-* [ExpressJS]('')
-* [SQLite3]('')
-* [Knex]('')
-* [JWT]('')
-* [bCrypt]('')
+* [ReactJS]('https://react.dev/')
+* [AntD]('https://ant.design/')
+* [ExpressJS]('https://expressjs.com/')
+* [SQLite3]('https://www.sqlite.org/index.html')
+* [Knex]('https://knexjs.org/')
+* [JWT]('https://www.npmjs.com/package/jsonwebtoken')
+* [bCrypt]('https://www.npmjs.com/package/bcrypt')
 
 ## Features
 
